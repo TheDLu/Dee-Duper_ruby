@@ -38,6 +38,6 @@ class @GoogleAnalytics
 
   @analyticsId: ->
     # your google analytics ID(s) here...
-    'UA-53201954-1''
+    'UA-53201954-1'
 
 GoogleAnalytics.load()
